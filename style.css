@@ -25,7 +25,9 @@ header nav a {
   padding-right: 10px;
   background-color: #998844;
 }
-
+section#featured-property{
+  text-align: center;
+}
 section#featured-property p{
 
     width: 800px;
