@@ -30,3 +30,7 @@ section#featured-property{
   width: 800px;
   text-align: center;
 }
+
+section#details{
+  display: block;
+}
