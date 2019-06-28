@@ -33,5 +33,9 @@ section#featured-property{
 
 section#details{
   display: block;
-  float: left;
+}
+
+section#details div{
+    float: left;
+    background-color: #fff
 }
