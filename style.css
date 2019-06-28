@@ -27,12 +27,8 @@ nav a {
 }
 
 section#featured-property p{
-  display: block;
-  margin-left: auto;
-  margin-right: auto;
   text-align: center;
-  width: 50%;
-  background-color: red;
+  width: 800px;
 }
 
 section#details{
