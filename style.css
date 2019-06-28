@@ -26,7 +26,7 @@ header nav a {
   background-color: #998844;
 }
 section#featured-property{
-  text-align: center;
+  display: block;
 }
 section#featured-property p{
 
