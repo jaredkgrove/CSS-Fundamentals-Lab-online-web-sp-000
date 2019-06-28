@@ -23,7 +23,8 @@ figure figcaption {
 nav a {
   padding-left: 10px;
   padding-right: 10px;
-  background-color: #998844
+  background-color: #998844;
+  text-align: center;
 }
 
 section#featured-property p{
