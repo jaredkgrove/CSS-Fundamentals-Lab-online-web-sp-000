@@ -25,3 +25,9 @@ nav a {
   padding-right: 10px;
   background-color: #998844
 }
+
+section#featured-property{
+  width: 800px;
+  text-align: center;
+}
+
