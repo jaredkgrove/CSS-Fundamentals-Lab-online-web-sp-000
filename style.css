@@ -27,11 +27,15 @@ header nav a {
 }
 section#featured-property{
 
-  text-align: center;
+  display: block;
 }
 section#featured-property p{
-    width: 800px;
-      display: block;
+    /* width: 800px;
+      display: block; */
+      float: left;
+      background-color: #990000;
+      text-align: center;
+      width: 25%
 }
 
 section#details{
