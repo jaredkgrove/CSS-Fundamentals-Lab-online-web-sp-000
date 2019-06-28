@@ -32,6 +32,7 @@ section##featured-property p{
   margin-right: auto;
   text-align: center;
   width: 50%;
+  background-color: red;
 }
 
 section#details{
